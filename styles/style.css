@@ -376,6 +376,19 @@ label {
     font-size: 1.5em;
     color: #2fcbef;
   }
+
+  .item1,
+  .item2,
+  .item3,
+  .item4 {
+    align-items: center;
+    padding: 10% 0;
+  }
+
+  .img-site {
+    max-width: 18em;
+  }
+
   .portfolio-title,
   .about-title,
   .contact-title {
