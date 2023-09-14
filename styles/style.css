@@ -376,4 +376,16 @@ label {
     font-size: 1.5em;
     color: #2fcbef;
   }
+  .portfolio-title,
+  .about-title,
+  .contact-title {
+    margin-top: 25%;
+    margin-bottom: 15%;
+  }
+  .form-btn {
+    margin-top: 5%;
+    margin-bottom: 10%;
+    width: 7em;
+    height: 2.5em;
+  }
 }
