@@ -339,6 +339,10 @@ label {
     row-gap: 4.5em;
   }
 
+  .header {
+    padding: 5% 0;
+  }
+
   .greetings {
     display: flex;
     flex-direction: column;
